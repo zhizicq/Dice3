@@ -1,5 +1,4 @@
 cmake_minimum_required(VERSION 3.9)
-set(CMAKE_GENERATOR_TOOLSET "host=x86")
 set(CMAKE_GENERATOR_PLATFORM "Win32")
 project(coolq-cpp-sdk)
 
